@@ -11,3 +11,5 @@
    10. Server events en HTTP
 2. Dependencia Morgan
 3. Dependencia ws para web sockets | Dependencia socket.io
+4. Broadcast
+5. Turso tech | Base de datos sql

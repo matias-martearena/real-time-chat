@@ -1,7 +1,7 @@
 {
-  "name": "chat-en-tiempo-real",
+  "name": "real-time-chat",
   "version": "1.0.0",
-  "description": "Chat en tiempo real con web sockets",
+  "description": "Real time chat using NodeJS and Socket.IO.",
   "main": "index.js",
   "type": "module",
   "scripts": {
