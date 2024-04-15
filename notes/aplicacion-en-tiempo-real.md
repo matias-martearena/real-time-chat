@@ -12,4 +12,4 @@
 2. Dependencia Morgan
 3. Dependencia ws para web sockets | Dependencia socket.io
 4. Broadcast
-5. Turso tech | Base de datos sql
+5. Turso tech | Base de datos sql | Comandos para crear una base de datos con turso | Como ver los datos de la base en turso
